@@ -1,5 +1,7 @@
 package mymath
 
+//v1.0.0
+
 import (
 	"math"
 )
